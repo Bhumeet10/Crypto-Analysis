@@ -6,7 +6,7 @@ In the dynamic world of financial analytics, our Power BI dashboard transforms r
 1. Sharpe Ratio:
 Navigate the intricate landscape of risk and return with the Sharpe ratio, a fundamental metric that evaluates the performance of our investment portfolio. A higher Sharpe ratio indicates a more efficient use of risk in generating returns, guiding us towards optimal investment strategies.
 
-#2. ATH (All-Time High) and ATL (All-Time Low):
+2. ATH (All-Time High) and ATL (All-Time Low):
 Uncover the historical peaks and valleys of our chosen assets. ATH marks the pinnacle of value, representing the highest point achieved, while ATL delves into the lowest recorded value. Understanding these extremes enriches our understanding of market cycles and potential opportunities for growth or recovery.
 
 3. Maximum Drawdown:
